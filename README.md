@@ -19,7 +19,7 @@
 
 ## What is Churn?
 
-By literal definition from Cambridge dictionary:
+By literal definition from Cambridge [dictionary](https://dictionary.cambridge.org/dictionary/english/churn-rate):
 
 > **Churn rate** (noun): *the percentage of customers who stop buying the products or services of a particular company, calculated for a particular period of time*
 
